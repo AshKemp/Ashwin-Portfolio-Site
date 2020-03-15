@@ -24,3 +24,15 @@
 body {
     margin: 0;
 }
+
+.school {
+    color: blue;
+}
+
+.college {
+    color: yellow;
+}
+
+.work {
+    color: darkblue;
+}
